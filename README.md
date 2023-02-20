@@ -50,4 +50,4 @@ Ergon Cugler de Moraes Silva, from Brazil, mailto: <a href="contato@ergoncugler.
 
 ### How to Cite it:
 
-**SILVA, Ergon Cugler de Moraes Silva. Web Scraping Facebook Groups List without Code. (feb) 2023. Available at: <a>https://github.com/ergoncugler/false-speechs-by-bolsonaro/</a>.**
+**SILVA, Ergon Cugler de Moraes. Web Scraping Facebook Groups List without Code. (feb) 2023. Available at: <a>https://github.com/ergoncugler/false-speechs-by-bolsonaro/</a>.**
