@@ -2,7 +2,7 @@
 
 ### [Data] [Academic Research] [Scientific Research] [Public Policy] [Political Science] [Data Science]
 
-**Web Scraping Facebook Groups List without Code, containing all posts in .xlsx format organized from the following columns:**
+**Web Scraping Facebook Groups List without Code, organized from the following columns:**
 
 **01.) Title:** Group title; **02.) Link:** Url;  **03.) Type:** If it's a public or a private group;  **04.) Members:** The number of members the group has;  **05.) Posts (by Year):** The average of posts that the group has per year (the script adjusts variations to indicate the annual average, even if facebook points out the daily, weekly or monthly value); and **06.) Description (if it has):** Information provided by the group's administrators.
 
