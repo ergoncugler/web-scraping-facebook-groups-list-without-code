@@ -6,7 +6,7 @@
 
 **01.) Title:** Group title; **02.) Link:** Url;  **03.) Type:** If it's a public or a private group;  **04.) Members:** The number of members the group has;  **05.) Posts (by Year):** The average of posts that the group has per year (the script adjusts variations to indicate the annual average, even if facebook points out the daily, weekly or monthly value); and **06.) Description (if it has):** Information provided by the group's administrators.
 
-It can be accessed at: **<a href="https://github.com/ergoncugler/web-scraping-facebook-groups-list-without-code/blob/main/SpreadSheet%20-%20Scraping%20Facebook%20List%20Groups%20without%20Code.xlsx">[Web Scraping Facebook Groups List without Code, just SpreadSheet]</a>**.
+You can download it here (.xlsx): **<a href="https://github.com/ergoncugler/web-scraping-facebook-groups-list-without-code/blob/main/SpreadSheet%20-%20Scraping%20Facebook%20List%20Groups%20without%20Code.xlsx">[Download Web Scraping Facebook Groups List without Code, just SpreadSheet]</a>**. You also can access an online Google Sheets' version and create a copy to your Google Drive (recommended, because it was created from Google Sheets): **<a href="https://docs.google.com/spreadsheets/d/1EzFA8RxkrfZZSNzJMRnKXWl9bUrak1I_RHEPro3ybbA/edit?usp=sharing">[Copy to Google Web Scraping Facebook Groups List without Code, just SpreadSheet]</a>**.
 
 ![image](https://user-images.githubusercontent.com/81989837/220194126-d0992e45-0b69-46e4-a78f-65e400088cfe.png)
 
